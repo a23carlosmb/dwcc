@@ -1,2 +1,2 @@
 # dwcc
-FP, Entorno Servidor
+FP, Entorno Cliente
